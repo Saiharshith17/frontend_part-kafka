@@ -1,0 +1,14 @@
+[33m254283d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtemp-branch[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from 254283dc8b970a9274f324aaf87e65c096aa3426 to temp-branch
+[33m254283d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtemp-branch[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: rebase (squash): Initialize project using Create React App
+[33m060d7c9[m HEAD@{2}: rebase: fast-forward
+[33ma90bef5[m HEAD@{3}: rebase (start): checkout a90bef568c39756efbd3f5591c74c0118114ac64
+[33mb82bebe[m[33m ([m[1;32mmain[m[33m)[m HEAD@{4}: rebase (finish): returning to refs/heads/main
+[33mb82bebe[m[33m ([m[1;32mmain[m[33m)[m HEAD@{5}: commit (amend): first commit
+[33m096a1c0[m HEAD@{6}: rebase: fast-forward
+[33m8d3cc87[m HEAD@{7}: rebase: fast-forward
+[33m060d7c9[m HEAD@{8}: rebase: fast-forward
+[33mae764a8[m HEAD@{9}: rebase (start): checkout ae764a88e965af9d759419e6470c3239e0e4ce39
+[33m096a1c0[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/main
+[33m096a1c0[m HEAD@{12}: commit: first commit
+[33m8d3cc87[m HEAD@{13}: commit: Initials
+[33m060d7c9[m HEAD@{14}: commit (initial): Initialize project using Create React App
